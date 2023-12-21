@@ -1,5 +1,4 @@
 ---
-
 name: NewBugReport
 description: File a bug report
 title: "[Bug]: "
@@ -64,6 +63,5 @@ body:
      description: By submitting this issue, you agree to follow our [Code of Conduct](htpps://example.com)
      option:
        - label: I agree to follow this project's Code of Conduct
-         required: true
-          
+         required: true    
 ---
